@@ -15,6 +15,7 @@
 		492C11B526BB5C8700144CB9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 492C11B326BB5C8700144CB9 /* LaunchScreen.storyboard */; };
 		492C11C026BB5C8800144CB9 /* cursoIosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 492C11BF26BB5C8800144CB9 /* cursoIosTests.swift */; };
 		492C11CB26BB5C8800144CB9 /* cursoIosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 492C11CA26BB5C8800144CB9 /* cursoIosUITests.swift */; };
+		4939DB9526C1E8C800047274 /* Pessoa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4939DB9426C1E8C800047274 /* Pessoa.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		492C11C626BB5C8800144CB9 /* cursoIosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cursoIosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		492C11CA26BB5C8800144CB9 /* cursoIosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cursoIosUITests.swift; sourceTree = "<group>"; };
 		492C11CC26BB5C8800144CB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4939DB9426C1E8C800047274 /* Pessoa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pessoa.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				492C11A826BB5C8600144CB9 /* AppDelegate.swift */,
 				492C11AA26BB5C8600144CB9 /* SceneDelegate.swift */,
 				492C11AC26BB5C8600144CB9 /* ViewController.swift */,
+				4939DB9426C1E8C800047274 /* Pessoa.swift */,
 				492C11AE26BB5C8600144CB9 /* Main.storyboard */,
 				492C11B126BB5C8700144CB9 /* Assets.xcassets */,
 				492C11B326BB5C8700144CB9 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				492C11AD26BB5C8600144CB9 /* ViewController.swift in Sources */,
 				492C11A926BB5C8600144CB9 /* AppDelegate.swift in Sources */,
+				4939DB9526C1E8C800047274 /* Pessoa.swift in Sources */,
 				492C11AB26BB5C8600144CB9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
